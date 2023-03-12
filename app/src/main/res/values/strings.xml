@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTodoApp</string>
+    <string name="title">Please enter your city to get weather information!</string>
+    <string name="Click">Click on the box to select a user id in this box to fetch that user\'s to do tasks!</string>
+    <string name="Notice">There are %s user ids fetched from API!</string>
+    <string name="ListOfTasks">List of tasks of user with id: %s is display as below</string>
+</resources>
